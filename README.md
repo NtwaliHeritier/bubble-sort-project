@@ -11,6 +11,32 @@ Additional description about the project and its features.
 - Ruby
 - VS code
 
+## Getting Started
+
+**Run the code demonstrations below**
+ 
+```bash
+ruby main.rb
+```
+
+### Prerequisites
+
+- Ruby
+
+## Setup
+
+To run this project locally, please ensure you have Ruby installed on your machine, then clone this repository by running.
+
+```bash
+git clone https://github.com/NtwaliHeritier/bubble-sort-project
+```
+
+After cloning run
+
+```bash 
+cd bubble-sort-project
+```
+Lastly run either of the commands listed in the getting started section above.
 
 ## Authors
 
@@ -18,7 +44,7 @@ Additional description about the project and its features.
 
 - Github: [@NtwaliHeritier](https://github.com/NtwaliHeritier)
 - Twitter: [@NtwaliHeritier](https://twitter.com/NtwaliHeritier)
-- Linkedin: [@NtwaliHeritier](https://linkedin.com/in/ntwali-heritier-9950001a2)
+- Linkedin: [Ntwali Heritier](https://linkedin.com/in/ntwali-heritier-9950001a2)
 
 
 👤 **Oguadinma Nkiruka Ngozika**
